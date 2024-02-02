@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#HW{
+    font-family: sans-serif;
+    text-align: center;
+    margin: 120px;
+    font-size: 150px;
+    font-weight: 800;
+    color: transparent;
+    background-image: url(https://64.media.tumblr.com/f7f615b5b0f716c1340c63d829584a5e/tumblr_nqcomaBBqE1rf78nfo1_400.gifv);
+    background-position: center;
+    -webkit-background-clip: text;
+}
+
+#FIRE{
+    font-family: sans-serif;
+    text-align: center;
+    margin: 120px;
+    font-size: 150px;
+    font-weight: 800;
+    color: transparent;
+    background-image: url(https://media3.giphy.com/media/13mwsrXEUtSyZi/giphy.gif?cid=ecf05e474xky7miw19ahzoqonvu9wa5u4k4caitwy30yjbtj&ep=v1_gifs_related&rid=giphy.gif&ct=g);
+    background-position: center;
+    -webkit-background-clip: text;
+}
